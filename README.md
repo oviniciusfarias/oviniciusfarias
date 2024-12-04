@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Vinicius Farias 👋
 
-<!--
-**oviniciusfarias/oviniciusfarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+➤ Software Developer (Node.js | JavaScript/TypeScript | React.js | Go)
+➤ Love for UX
+➤ Cat person
 
-Here are some ideas to get you started:
+## Techs I'm working with at the moment 🔭
+➤ Go  
+➤ Node.js  
+➤ React.js
+➤ Angular.js
+➤ Vue.js
+➤ TypeScript  
+➤ PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+➤ Python
+➤ Java
+➤ DevOps
+➤ Data Science
+
+## How to reach me 📫
+➤ oviniciusfarias@gmail.com
+➤ [Linkedin](https://linkedin.com/in/oviniciusfarias)
+➤ [My website](https://oviniciusfarias.com.br)
+➤ [Insta](https://instagram.com/oviniciusfarias)
