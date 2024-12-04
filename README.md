@@ -23,4 +23,4 @@
 ➤ oviniciusfarias@gmail.com
 ➤ [Linkedin](https://linkedin.com/in/oviniciusfarias)
 ➤ [My website](https://oviniciusfarias.com.br)
-➤ [Insta](https://instagram.com/oviniciusfarias)
+➤ [Insta](https://www.instagram.com/oviniciusfarias/profilecard/)
