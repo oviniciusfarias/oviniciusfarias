@@ -1,8 +1,8 @@
 # Hi, I'm Vinicius Farias 👋
 
-➤ Software Developer (Node.js | JavaScript/TypeScript | React.js | Go)
-➤ Love for UX
-➤ Cat person
+➤ Software Developer (Node.js | JavaScript/TypeScript | React.js | Go)   
+➤ Love for UX   
+➤ Cat person   
 
 ## Techs I'm working with at the moment 🔭
 ➤ Go  
